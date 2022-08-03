@@ -1,12 +1,12 @@
 local QBCore = exports['qb-core']:GetCoreObject()
 
 RegisterNetEvent('crew-vape:client:startvape', function() -- Start Vaping
-	QBCore.Functions.Progressbar("vape_smoke", "Starts Smoking..", 1500, false, true, {
+	QBCore.Functions.Progressbar("vape_smoke", "Starts Smoking..", math.random(1000, 3000), false, false, {
         disableMovement = false,
         disableCarMovement = false,
 		disableMouse = false,
 		disableCombat = true,
-    }, {}, {}, {}, function() -- Done
+    }, {}, {}, {}, function()
         if IsPedInAnyVehicle(PlayerPedId(), false) then
             TriggerEvent('animations:client:EmoteCommandStart', {"vape"})
         else
