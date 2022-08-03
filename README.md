@@ -29,7 +29,8 @@ Coming Soon
 
 1- Insert Snippet below in dpemotes/client/animation.lua
 
-```["vape"] = {"amb@world_human_smoking@female@idle_a", "idle_b", "Vape", AnimationOptions =
+```
+["vape"] = {"amb@world_human_smoking@female@idle_a", "idle_b", "Vape", AnimationOptions =
    {
        Prop = "ba_prop_battle_vape_01",
        PropBone = 28422,
@@ -41,7 +42,8 @@ Coming Soon
 
 2- Add Items to qb-core/shared/items.lua
 
-```["vape_pen"] 			 		 = {["name"] = "vape_pen", 						["label"] = "Vape Pen", 				["weight"] = 400, 		["type"] = "item", 		["image"] = "vapepen.png", 			["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = "Put Some Juice in it"},
+```
+["vape_pen"] 			 		 = {["name"] = "vape_pen", 						["label"] = "Vape Pen", 				["weight"] = 400, 		["type"] = "item", 		["image"] = "vapepen.png", 			["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = "Put Some Juice in it"},
 
 ["puff_strawberry"] 			 		 = {["name"] = "puff_strawberry", 						["label"] = "Strawberry Puff Bar", 				["weight"] = 400, 		["type"] = "item", 		["image"] = "puffstrawberry.png", 			["unique"] = true, 	["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = "Strawberry is the best"},
 
