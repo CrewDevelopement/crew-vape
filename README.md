@@ -1,18 +1,27 @@
 ------ Crew Developement ------
+
 --- Qbcore Vape Script ---
+
 --- Tons of vapes and puffbars that can be configured and used ---
 
 # Introduction
 
 Qbcore Vape Script --- ESX Coming Soon
+
 Tons of vapes and puffbars that can be configured and used
 Simply add your items and put them in the Config!!
+
 Stress Relief for those that use stress coming soon
+
 Effects coming soon also
+
 Combining for Vapes and Juices coming soon
+
 Hyde Bars coming soon wiht charging function in car
 
 # Preview
+
+Coming Soon
 
 # Installation
 
