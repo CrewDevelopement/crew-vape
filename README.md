@@ -36,7 +36,8 @@ Coming Soon
        PropPlacement = {0.015, -0.009, 0.003, 55.0, 0.0, 110.0},
        EmoteLoop = true,
        EmoteMoving = true,
-   }},```
+   }}, 
+   ```
 
 2- Add Items to qb-core/shared/items.lua
 
@@ -54,6 +55,7 @@ Coming Soon
 
 ["strawnana"] 			 		 = {["name"] = "strawnana", 						["label"] = "Strawnana Juice", 				["weight"] = 100, 		["type"] = "item", 		["image"] = "strawnana.png", 			["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = ""},
 
-["chubby"] 			 		 = {["name"] = "chubby", 						["label"] = "Chubby Blubble Juice", 				["weight"] = 100, 		["type"] = "item", 		["image"] = "chubby.png", 			["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = ""},```
+["chubby"] 			 		 = {["name"] = "chubby", 						["label"] = "Chubby Blubble Juice", 				["weight"] = 100, 		["type"] = "item", 		["image"] = "chubby.png", 			["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,	   ["combinable"] = nil,   ["description"] = ""},
+```
 
 3- Add Photos to qb-inventory/html/images
